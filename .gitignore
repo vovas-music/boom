@@ -2,3 +2,4 @@
 /Backups
 *.reapeaks
 .DS_Store
+*.rpp-bak
